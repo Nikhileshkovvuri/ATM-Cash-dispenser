@@ -1,0 +1,16 @@
+Account Number 432344       Withdrawn Amount         € 10.0
+Account Number 432344       Withdrawn Amount         € 50.0
+Account Number 432344       Withdrawn Amount         € 50.0
+Account Number 432344       Withdrawn Amount         € 10.0
+Account Number 432344       Withdrawn Amount         € 10.0
+Account Number 432344       Withdrawn Amount         € 10.0
+Account Number 432344       Withdrawn Amount         € 10.0
+Account Number 432344       Withdrawn Amount         € 10.0
+Account Number 432344       Withdrawn Amount         € 40.0
+Account Number 432344       Withdrawn Amount         € 50.0
+Account Number 432344       Withdrawn Amount         € 50.0
+Account Number 432344       Withdrawn Amount         € 40.0
+Account Number 432344       Withdrawn Amount         € 50.0
+Account Number 432344       Withdrawn Amount         € 80.0
+Account Number 432344       Withdrawn Amount         € 190.0
+Account Number 432344       Withdrawn Amount         € 250.0
